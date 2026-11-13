@@ -1,0 +1,21 @@
+{
+  "name": "Prueba de ID",
+  "version": "1.0",
+  "scrapers": [
+    {
+      "id": "IdTest",
+      "name": "Prueba ID",
+      "description": "Muestra que ID recibe el plugin al abrir una pelicula",
+      "version": "1.0",
+      "author": "-",
+      "supportedTypes": [
+        "movie"
+      ],
+      "filename": "providers/idtest.js",
+      "enabled": true,
+      "contentLanguage": [
+        "es"
+      ]
+    }
+  ]
+}

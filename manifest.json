@@ -1,12 +1,12 @@
 {
   "name": "Prueba de ID",
-  "version": "1.1",
+  "version": "1.2",
   "scrapers": [
     {
       "id": "IdTest",
       "name": "Prueba ID",
       "description": "Muestra que ID recibe el plugin al abrir una pelicula",
-      "version": "1.1",
+      "version": "1.2",
       "author": "-",
       "supportedTypes": [
         "movie"
